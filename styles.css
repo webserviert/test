@@ -1,0 +1,12 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+#controls {
+  margin-bottom: 20px;
+}
+
+#consumedList li {
+  margin-bottom: 5px;
+}
